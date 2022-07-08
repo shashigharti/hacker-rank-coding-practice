@@ -154,4 +154,4 @@ public class MySolutionText extends SolutionTestBase<Input, DefaultChallengeResu
 }
 ```
 
-The string passed to the `runTestCase(String)` method is interpreted as a path relative to the root of the `src/test/resources` folder.
+The string passed to the `runTestCase(String)` method is interpreted as a path relative to the root of the `src/test/resources` folder.test
